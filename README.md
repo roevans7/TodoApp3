@@ -6,6 +6,11 @@ Submitted by: Robert Evans
 
 Time spent: 14 hours spent in total
 
+The following required functionality is completed:
+
+User can successfully add items from the todo list
+
+
 
 Video Walkthrough 
 
